@@ -125,3 +125,9 @@ footer{
   display: flex;
   flex-direction: column;
 }
+
+#404 {
+  color:#91BEFF;
+  text-align: center;
+  font-size: 60px; 
+}
